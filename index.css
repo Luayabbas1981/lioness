@@ -82,6 +82,7 @@ body{
      transform: rotate(2deg);
      z-index: 4;
    }
+   
    .shadow2 {
      position: absolute;
      width: 35px;
