@@ -15,7 +15,15 @@ body{
      border-radius: 20px 20px 20px 80px;
      scale: .6;
    }
-   
+   @media(max-width:800px){
+    body{
+      display: block;
+    }
+    .frame{
+      translate: -28.5% -8%;
+      scale: .4;
+    }
+   }
    .head {
      position: relative;
    }
