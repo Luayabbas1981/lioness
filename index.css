@@ -310,7 +310,7 @@
      transform: rotate(355deg);
    }
    
-   .hair_bottom11 {
+   .chin {
      position: absolute;
      width: 78px;
      height: 55px;
@@ -321,22 +321,4 @@
      transform: rotate(181deg);
    }
    
-   .luay {
-     position: absolute;
-     font-family: "Dancing Script", cursive;
-   
-     font-size: 50px;
-     font-style: italic;
-     top: 722px;
-     left: 50px;
-   }
-   p {
-     position: absolute;
-     font-family: "Dancing Script", cursive;
-     font-weight: 300;
-     font-size: 30px;
-     font-style: italic;
-     top: 759px;
-     left: 85px;
-   }
-   
+  
