@@ -8,7 +8,7 @@ body{
      height: 850px;
      background: linear-gradient(
        248deg,
-       #a19f9f 0%,
+       #a19f9f -63%,
        #ffffff 100%
      );
      box-shadow: 10px 10px 10px #d7d7d7;
@@ -139,7 +139,7 @@ body{
      position: absolute;
      width: 10px;
      height: 20px;
-     background-color: #d1d0d0 ;
+     background-color: #e2dddd ;
      border-radius: 50%;
      top: 90px;
      left: 74px;
@@ -150,7 +150,7 @@ body{
      position: absolute;
      width: 10px;
      height: 20px;
-     background-color: #d1d0d0 ;
+     background-color: #e2dddd;
      border-radius: 50%;
      top: 90px;
      right: 74px;
